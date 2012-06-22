@@ -1,0 +1,9 @@
+{application,meck_cassettes,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib,inets]},
+              {mod,{meck_cassettes_app,[]}},
+              {env,[]},
+              {modules,[meck_cassettes,meck_cassettes_app,
+                        meck_cassettes_sup]}]}.
